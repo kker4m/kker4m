@@ -31,6 +31,7 @@
 		hobbies = [
 				'Swimming',
 				'Watching Series And Movies',
+				'Playing Chess',
 				'Playing Games'
 				'Serves customers',
 				'Being up all Night chasing that ONE BUG...'
@@ -43,6 +44,7 @@
 		return Inonu_Malatya()
 	
 	def Ambitions():
+		playingChess()
 		speakEnglish()
 		beTheBest()
 		grazeUntilItsPerfect()
