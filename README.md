@@ -57,7 +57,7 @@
  * I started making plans to automate many games with image processing. I'm so interested!
  
 ## Other Stuff
-  - :octocat: [My G2G Profile](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing), If you want to see how dropshipper bot goes :) 
+  - :octocat: [My Youtube Channel](https://www.youtube.com/channel/UCA_8wb6R2bav-Kv8RraLHtw), subscribe If you interested the coding :) 
   - Feel free to send e-mail to me for no reason, also I love to meet new people. (P.S. Star it too!!:grimacing: )
 
 ![Kerem's github stats](https://github-readme-stats.vercel.app/api?username=linuxkerem&show_icons=true&hide=[%22issues%22])
