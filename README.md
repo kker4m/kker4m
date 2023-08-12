@@ -52,9 +52,9 @@
  ```
  
 ## Current Works
- * I continue to develop the dropshipper bot, which is used by nearly 10 of my customers, day by day.
- * Thanks to my school, I am taking object-oriented java lessons. I can't wait to do projects in Java.
- * I started making plans to automate many games with image processing. I'm so interested!
+ * I am doing an internship at The Scientific and Technological Research Council of Turkey (TUBITAK).
+ * I'm improving myself in C# and I want to specialize in .Net too.
+ * I can't wait to use more e-commerce and social media sites for my automation projects (!)
  
 ## Other Stuff
   - :octocat: [My Youtube Channel](https://www.youtube.com/channel/UCA_8wb6R2bav-Kv8RraLHtw), subscribe If you interested the coding :) 
