@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxkerem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages
-<img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/python.png' width='40'/> <img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/java.png' width='30'/> <img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/c.png' width='30'/> <img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/html.png' width='40'/><img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/css.png' width='30'/> 
+<img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/python.png' width='40'/> <img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/java.png' width='30'/> <img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/csharp-png-4-2802037097.png' width='30'/> <img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/html.png' width='40'/><img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/css.png' width='30'/> 
 
  ## Technologies I Use
  <img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/excel.png' width='40'/>  <img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/mysql.png' height='50'/><img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/opencv.png' width='50'/><img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/requests.png' width='50'/> <img src = 'https://github.com/linuxkerem/keremavi/blob/main/images/selenium.png' width='50'/>
