@@ -52,7 +52,7 @@
  ```
  
 ## Current Works
- * I am doing an internship at The Scientific and Technological Research Council of Turkey (TUBITAK).
+ * I am doing an backend internship at Arçelik Global right now.
  * I'm improving myself in C# and I want to specialize in .Net too.
  * I can't wait to use more e-commerce and social media sites for my automation projects (!)
  
