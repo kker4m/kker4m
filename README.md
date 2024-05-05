@@ -5,7 +5,7 @@
 <img src = 'https://github.com/kker4m/kker4m/blob/main/images/myLifeLoop.gif' alt = 'My Life Loop' width='350' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kerem%20Mert%20Izmir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kker4m)](https://www.linkedin.com/in/kker4m) [![Gmail Badge](https://img.shields.io/badge/keremmertizmir39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keremmertizmir39@gmail.com)](mailto:keremmertizmir39@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Kerem-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCA_8wb6R2bav-Kv8RraLHtw)](https://www.youtube.com/channel/UCA_8wb6R2bav-Kv8RraLHtw)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keremavi" alt="keremavi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kker4m" alt="kker4m" /> </p>
 
 <div style="text-align: right">Welcome to the profile of a university student who wants to specialize in data science and also serves a few of customers with multiple projects.</div>
 
