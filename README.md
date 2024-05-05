@@ -44,6 +44,7 @@
 		return Inonu_Malatya()
 	
 	def Ambitions():
+		rideMotorcycle()
 		playingChess()
 		speakEnglish()
 		beTheBest()
