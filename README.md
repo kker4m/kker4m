@@ -24,32 +24,43 @@
  <img src = 'https://github.com/kker4m/kker4m/blob/main/images/excel.png' width='40'/>  <img src = 'https://github.com/kker4m/kker4m/blob/main/images/mysql.png' height='50'/><img src = 'https://github.com/kker4m/kker4m/blob/main/images/opencv.png' width='50'/><img src = 'https://github.com/kker4m/kker4m/blob/main/images/requests.png' width='50'/> <img src = 'https://github.com/kker4m/kker4m/blob/main/images/selenium.png' width='50'/>
  
  ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Kerem Mert Izmir'
-		current_work = 'Writing code'
-		hobbies = [
-				'Swimming',
-				'Watching Series And Movies',
-				'Playing Chess',
-				'Playing Games'
-				'Serves customers',
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Mersin_Turkey()
-	
-	def getUniversity():
-		return Inonu_Malatya()
-	
-	def Ambitions():
-		rideMotorcycle()
-		playingChess()
-		speakEnglish()
-		beTheBest()
-		grazeUntilItsPerfect()
-	
+ ```csharp
+ public class WhoAmI
+{
+    public string User { get; set; } = "Kerem Mert Izmir";
+    public string CurrentWork { get; set; } = "Writing code";
+    public List<string> Hobbies { get; set; } = new List<string>
+    {
+	"Riding Motorcycle",
+        "Swimming",
+        "Watching Series And Movies",
+        "Playing Chess",
+        "To attend the meetings",
+        "Being up all Night chasing that ONE BUG..."
+    };
+
+    public string GetCity()
+    {
+        return "Mersin, Turkey";
+    }
+
+    public string GetUniversity()
+    {
+        return "Inonu, Malatya";
+    }
+
+    public List<string> Ambitions()
+    {
+        return new List<string>
+        {
+            "rideMotorcycle",
+            "playingChess",
+            "speakEnglish",
+            "beTheBest",
+            "grazeUntilItsPerfect"
+        };
+    }
+}
  ```
  
 ## Current Works
@@ -62,6 +73,7 @@
   - Feel free to send e-mail to me for no reason, also I love to meet new people. (P.S. Star it too!!:grimacing: )
 
 ![Kerem's github stats](https://github-readme-stats.vercel.app/api?username=kker4m&show_icons=true&hide=[%22issues%22])
+
 ![Kerem's leetcode stats](https://leetcard.jacoblin.cool/kker4m?ext=activity)
  
  
