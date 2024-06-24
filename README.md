@@ -62,5 +62,6 @@
   - Feel free to send e-mail to me for no reason, also I love to meet new people. (P.S. Star it too!!:grimacing: )
 
 ![Kerem's github stats](https://github-readme-stats.vercel.app/api?username=kker4m&show_icons=true&hide=[%22issues%22])
+![Kerem's leetcode stats](https://leetcard.jacoblin.cool/kker4m?ext=activity)
  
  
