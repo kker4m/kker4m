@@ -1,13 +1,13 @@
-## Hi, [I'm Kerem!](https://www.youtube.com/channel/UCA_8wb6R2bav-Kv8RraLHtw)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hi, [I'm Kerem!](https://www.youtube.com/@kker4m)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my dark world</h1> 
 
 <img src = 'https://github.com/kker4m/kker4m/blob/main/images/myLifeLoop.gif' alt = 'My Life Loop' width='350' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kerem%20Mert%20Izmir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kker4m)](https://www.linkedin.com/in/kker4m) [![Gmail Badge](https://img.shields.io/badge/keremmertizmir39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keremmertizmir39@gmail.com)](mailto:keremmertizmir39@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Kerem-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCA_8wb6R2bav-Kv8RraLHtw)](https://www.youtube.com/channel/UCA_8wb6R2bav-Kv8RraLHtw)
+[![Linkedin Badge](https://img.shields.io/badge/-Kerem%20Mert%20Izmir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kker4m)](https://www.linkedin.com/in/kker4m) [![Gmail Badge](https://img.shields.io/badge/keremmertizmir39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keremmertizmir39@gmail.com)](mailto:keremmertizmir39@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Kerem-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@kker4m)](https://www.youtube.com/@kker4m)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kker4m" alt="kker4m" /> </p>
 
-<div style="text-align: right">Welcome to the profile of a university student who wants to specialize in data science and also serves a few of customers with multiple projects.</div>
+<div style="text-align: right">Welcome to the profile of a developer who wants to specialize in data science and also serves a few of customers with multiple projects.</div>
 
 ## :computer: Technologies I Love
 * Data Science
@@ -64,7 +64,6 @@
  ```
  
 ## Current Works
- * I am doing an internship at DGH Yazılım.
  * I'm improving myself in Next.js and I want to specialize in fullstack development too.
  * I can't wait to use more e-commerce and social media sites for my automation projects (!)
  
